@@ -42,4 +42,13 @@ The Global Education Exchange Center (GEEC) database project is designed to stre
   - **Security & Constraints** – Implemented constraints (e.g., NOT NULL, UNIQUE, CHECK) help maintain data accuracy and prevent anomalies.
   - **Automation via Triggers** – Triggers automate tasks like logging changes or updating related tables, reducing manual effort.
 
+**Entity Relationship Diagram (ERD)**
+
+
+
+
+
+
+
+
 
