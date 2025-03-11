@@ -1,4 +1,4 @@
-# Database-Project-Global-Education-Exchange-Center
+# SQL-Database-Project-Global-Education-Exchange-Center
 
 **Project Overview**
 
