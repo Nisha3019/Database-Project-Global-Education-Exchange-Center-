@@ -44,6 +44,9 @@ The Global Education Exchange Center (GEEC) database project is designed to stre
 
 **Entity Relationship Diagram (ERD)**
 
+##Screenshot :
+
+![Application Screenshot] (https://github.com/Nisha3019/Database-Project-Global-Education-Exchange-Center-/blob/main/Database.png)
 
 
 
