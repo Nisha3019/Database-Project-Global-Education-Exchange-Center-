@@ -1,1 +1,1 @@
-# Database-Project-Global-Education-Exchange-Center-
+# Database-Project-Global-Education-Exchange-Center
